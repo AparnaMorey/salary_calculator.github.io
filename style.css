@@ -1,0 +1,22 @@
+body{
+         background-color:beige
+        }
+        h1{
+            text-align:center;
+            letter-spacing: 20px;
+            opacity: 0.6;
+        }
+        button{
+            width:200px;
+        }
+        span{
+            color:red;
+            font-weight: bold;
+        }
+        div {
+            background-color: lightgrey;
+            width: 40%;
+            border: 3px solid rgb(7, 7, 7);
+            padding: 40px;
+           
+          }
