@@ -50,7 +50,7 @@ This project would not have been possible without the help and support of the fo
 
 
 ## Authors
-[![Aparna Morey](https://img.shields.io/badge/aparna_morey-000000?style=for-the-badge)]
+![Aparna Morey](https://img.shields.io/badge/aparna_morey-000000?style=for-the-badge)
 
 
 
