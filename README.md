@@ -22,7 +22,8 @@ This interactive calculator helps users determine their net salary based on gros
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="https://github.com/user-attachments/assets/ee98bb68-6b1f-4a38-a84a-1e2a66b2e86e" width=400 height=600>
+
 
 
 ##  Features
